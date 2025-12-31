@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FortiVPN
+Comment=Connect to FortiGate VPN
+Exec=gnome-terminal -- bash -c "fortivpn; echo 'Press Enter to close...'; read"
+Icon=network-vpn
+Terminal=false
+Categories=Network;VPN;
+Keywords=vpn;forti;fortinet;
+StartupNotify=true

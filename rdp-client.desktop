@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RDP Client
+Comment=Remote Desktop Connection Client
+Exec=/home/heath/work/vpn/venv/bin/python3 /home/heath/work/vpn/rdp_client.py
+Icon=preferences-desktop-remote-desktop
+Terminal=false
+Categories=Network;RemoteAccess;
+Keywords=rdp;remote;desktop;windows;
+StartupNotify=true
